@@ -1,0 +1,17 @@
+{
+  "name": "daybot",
+  "version": "1.0.0",
+  "description": "A bot by Day",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "author": "Day",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "keyv": "^4.0.1",
+    "keyv-file": "^0.2.0"
+  }
+}
